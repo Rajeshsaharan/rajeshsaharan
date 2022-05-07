@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is <b>Rajesh J Saharan</b>, I am a medical student currntly studying <i>Radiation Technology</i> at <b>SMS Medical College, Jaipur. </b>
+My name is <b>Rajesh J Saharan</b>, I'm a medical student & currently studying <i>Radiation Technology</i> at <b>SMS Medical College, Jaipur. </b>
 I am learning many computer science related technology 
 <ul>
   <li>Computer Networks -- For CCNA prepration</li>
