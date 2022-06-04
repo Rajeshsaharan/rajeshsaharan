@@ -1,4 +1,4 @@
-### Hi there <img src="https://github.com/Rajeshsaharan/rajeshsaharan/blob/bb3d2844d3dad1944420cf3c589611a6d766640f/wave.gif" width="30px">
+### Hi there <img src="https://github.com/Rajeshsaharan/rajeshsaharan/blob/bb3d2844d3dad1944420cf3c589611a6d766640f/wave.gif" width="20px height ="30px">
 
 My name is <b>Rajesh J Saharan</b>, I'm a medical student & currently studying <i>Radiation Technology</i> at <b>SMS Medical College, Jaipur. </b>
 I am learning many computer science related technology 💻
