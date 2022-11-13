@@ -9,3 +9,7 @@ I am learning many computer science related technology 💻
   <li> DevOps -- For understanding environment of development & managemnet and operation</li>
   <li>Solidity -- For blockchain Smart contract & Web3 projects</li>
  </ul>
+
+
+###Skills 
+<img src="https://img.shields.io/badge/html5-%23e34f26.svg?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5" />
