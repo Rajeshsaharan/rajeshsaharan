@@ -12,8 +12,4 @@ I am learning many computer science related technology 💻
 
 
 ### Skills 
-<img src="https://img.shields.io/badge/html5-%23e34f26.svg?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5" />
-<img src="https://img.shields.io/badge/node.js-%2343853d.svg?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js" />
-<img src="https://img.shields.io/badge/dart-%230175c2.svg?logo=dart&logoColor=white&style=for-the-badge" alt="Dart" />
-<img src="https://img.shields.io/badge/css3-%231572b6.svg?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3" />
-<img src="https://img.shields.io/badge/css3-%231572b6.svg?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3" />
+<img src="https://img.shields.io/badge/html5-%23e34f26.svg?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5" /><img src="https://img.shields.io/badge/node.js-%2343853d.svg?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js" /><img src="https://img.shields.io/badge/dart-%230175c2.svg?logo=dart&logoColor=white&style=for-the-badge" alt="Dart" /><img src="https://img.shields.io/badge/css3-%231572b6.svg?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3" /><img src="https://img.shields.io/badge/css3-%231572b6.svg?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3" />
